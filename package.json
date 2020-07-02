@@ -29,7 +29,7 @@
     "@types/request": "^2.48.4",
     "ts-node": "^8.9.0",
     "tslint": "^6.1.1",
-    "typescript": "^3.8.3"
+    "typescript": "^3.9.6"
   },
   "dependencies": {
     "axios": "^0.19.2",
