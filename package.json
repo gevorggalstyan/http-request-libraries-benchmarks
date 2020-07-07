@@ -22,7 +22,7 @@
   "devDependencies": {
     "@types/benchmark": "^1.0.31",
     "@types/got": "^9.6.10",
-    "@types/jest": "^25.2.1",
+    "@types/jest": "^26.0.4",
     "@types/nock": "^11.1.0",
     "@types/node": "^13.13.1",
     "@types/node-fetch": "^2.5.6",
