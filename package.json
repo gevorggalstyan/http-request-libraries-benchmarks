@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/gevorggalstyan/http-request-libraries-benchmarks#readme",
   "devDependencies": {
-    "@types/benchmark": "^1.0.33",
+    "@types/benchmark": "^2.1.1",
     "@types/got": "^9.6.11",
     "@types/jest": "^26.0.8",
     "@types/nock": "^11.1.0",
